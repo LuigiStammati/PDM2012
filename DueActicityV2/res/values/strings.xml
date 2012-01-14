@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Main Activity</string>
+    <string name="app_name">DueActicityV2</string>
+    <string name="hello2">Button</string>
+    <string name="hello3">Second Activity</string>
+    <string name="hello4">inserisci il testo</string>
+
+</resources>
