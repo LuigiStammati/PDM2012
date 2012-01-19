@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <compilation>
+        <brano id="1">
+            <titolo>Paradise</titolo>
+            <autore>Coldplay</autore>
+            <genere>Mylo Xyloto</genere>
+        </brano>
+        <brano id="2">
+            <titolo>Hey You</titolo>
+            <artista>Pink Floyd</artista>
+            <album>A Foot In The Door-The Best Of Pink Floyd</album>
+        </brano>
+        <brano id="3">
+            <titolo>All Your Love</titolo>
+            <autore>Planet Funk</autore>
+            <genere>The Great Shake</genere>
+        </brano>
+    </compilation>
+</LinearLayout>
